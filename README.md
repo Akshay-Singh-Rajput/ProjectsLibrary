@@ -59,15 +59,15 @@ Have a Nice Day 🙂
 
 | Title  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
+|  [URL Shortener](https://github.com/Akshay-Singh-Rajput/Short_URL)| [Have a look](https://shorturlweb.herokuapp.com/) | **MongoDB**, **Express.Js** , **React.Js**, **Node.Js**, **Chakra Ui**  |
+|  [Authentication-API](https://github.com/Akshay-Singh-Rajput/Authentication-API)| [Have a look](https://youtu.be/B2JcSaKlr1A) | **MongoDB**, **Express.Js** , **React.Js**, **Node.Js**, **Chakra Ui**,  **Jwt**|
 |  [React_Redux_Cart](https://github.com/Akshay-Singh-Rajput/React_Redux_Cart)| [Have a look](https://ak-redux-cart.netlify.app/) | **React.Js** , **Redux**  , **Chakra UI** |
 |  [Shoping Cart](https://github.com/Akshay-Singh-Rajput/E-Commerce)| [Have a look](https://react-typescript-cart.netlify.app/) | **React.Js** , **Typescript**  , **Bootstrap** |
 |  [Drag & Drop Todo App](https://github.com/Akshay-Singh-Rajput/React-Typescript-TodoApp)| [Have a look](https://react-typescript-todo-app-seven.vercel.app/) | **ReactJS** , **Typescript**, **CSS** |
+|  [Graph Chart Data ](https://github.com/Akshay-Singh-Rajput/Charts)| [Have a look](https://progress-charts-codemas.netlify.app/) |**ReactJs** , **Redux** ,**Chart.Js(npm pkg)** , **Chakra UI**  |
 |  [Finance Logger](https://github.com/Akshay-Singh-Rajput/Learning_TypeScript)| [Have a look](https://typescript-financelogger.netlify.app/) | **Typescript**, **HTML** , **CSS3** , **Javascript** |
 |  [My First NPM Pkg](https://github.com/Akshay-Singh-Rajput/Npm-Package)| [Have a look](https://www.npmjs.com/package/isthatprime) | **NPM** , **Javascript** |
-|  [URL Shortener](https://github.com/Akshay-Singh-Rajput/Short_URL)| [Have a look](https://shorturlweb.herokuapp.com/) | **MongoDB**, **Express.Js** , **React.Js**, **Node.Js**, **Chakra Ui**  |
-|  [Authentication-API](https://github.com/Akshay-Singh-Rajput/Authentication-API)| [Have a look](https://youtu.be/B2JcSaKlr1A) | **MongoDB**, **Express.Js** , **React.Js**, **Node.Js**, **Chakra Ui**,  **Jwt**|
 |  [React get and post](https://github.com/Akshay-Singh-Rajput/CITY_COUNTRY_CRUD_REACT_APP)| [Have a look](https://city-country-crud-react-app.vercel.app/) | **React.JS** , **Redux**, **Chakra UI**  |
-|  [Graph Chart Data ](https://github.com/Akshay-Singh-Rajput/Charts)| [Have a look](https://progress-charts-codemas.netlify.app/) |**ReactJs** , **Redux** ,**Chart.Js(npm pkg)** , **Chakra UI**  |
 |  [React Counter](https://github.com/Akshay-Singh-Rajput/reactCounter)| [Have a look](https://react-counter-sepia.vercel.app/) | **React.JS** , **CSS**  |
 |  [Digital Clock](https://github.com/Akshay-Singh-Rajput/Digital_Clock-Timer)| [Have a look](https://digital-clock-timer.vercel.app/) | **HTML** , **CSS**, **Javascript**  |
 
