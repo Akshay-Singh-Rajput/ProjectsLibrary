@@ -71,6 +71,13 @@ Have a Nice Day 🙂
 |  [React Counter](https://github.com/Akshay-Singh-Rajput/reactCounter)| [Have a look](https://react-counter-sepia.vercel.app/) | **React.JS** , **CSS**  |
 |  [Digital Clock](https://github.com/Akshay-Singh-Rajput/Digital_Clock-Timer)| [Have a look](https://digital-clock-timer.vercel.app/) | **HTML** , **CSS**, **Javascript**  |
 
+|  [Today Weather](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://today-wether.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
+|  [Top 20 Trending Movies](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://top20-trending-movies.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
+|  [Search Movies](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://search-movies-and-get-details.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
+|  [Seven Days Weather Report](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://seven-days-weather-report.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
+|  [Eng-Hindi Translator](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://eng-hnd-translator.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
+|  [a-z-rhymes](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://a-z-rhymes.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
+
 <!--|  []()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  |
 |  [Project Name]()| [Have a look]() |  | -->
