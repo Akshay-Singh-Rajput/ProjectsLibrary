@@ -70,7 +70,6 @@ Have a Nice Day 🙂
 |  [React get and post](https://github.com/Akshay-Singh-Rajput/CITY_COUNTRY_CRUD_REACT_APP)| [Have a look](https://city-country-crud-react-app.vercel.app/) | **React.JS** , **Redux**, **Chakra UI**  |
 |  [React Counter](https://github.com/Akshay-Singh-Rajput/reactCounter)| [Have a look](https://react-counter-sepia.vercel.app/) | **React.JS** , **CSS**  |
 |  [Digital Clock](https://github.com/Akshay-Singh-Rajput/Digital_Clock-Timer)| [Have a look](https://digital-clock-timer.vercel.app/) | **HTML** , **CSS**, **Javascript**  |
-
 |  [Today Weather](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://today-wether.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
 |  [Top 20 Trending Movies](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://top20-trending-movies.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
 |  [Search Movies](https://github.com/Akshay-Singh-Rajput/)| [Have a look](https://search-movies-and-get-details.netlify.app/) | **HTML** , **CSS**, **Javascript**  |
