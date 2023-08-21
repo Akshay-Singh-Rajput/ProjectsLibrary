@@ -1,11 +1,11 @@
 
 # Welcome🙏🏻
 
-Thank you for visting... Here you can see my solo projects / team projects / mini projects which is made by me so far in my developing journey. For each project there is a deployed link through which you can easily visit any of them. Once Again Thank You for Visiting. 
+Thank you for visiting! Here, you can explore my solo projects, team projects, and mini projects that I have created so far in my journey as a developer. For each project, there is a deployed link that allows you to easily access them. Once again, thank you for stopping by.
 
-If You like any project you can give a ⭐️ that project Or You can fork that too. 
+If you find any project interesting, feel free to give it a ⭐️ or even fork it.
 
-Have a Nice Day 🙂
+Wishing you a great day! 🙂
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-kumar-portfoilo.netlify.app/)
@@ -91,6 +91,7 @@ Have a Nice Day 🙂
 
  ### Thank You for Visit
 
- Here is that Man where from i get the idea about this README.md Project Library, You can visit that repo as well
-
-Thanks  [Aakash Kumar](https://github.com/Aakashvani)
+ Here is the individual from whom I got the idea for this README.md project library. You can also visit that repository.
+ 
+Thanks,
+[Aakash Kumar](https://github.com/Aakashvani)
